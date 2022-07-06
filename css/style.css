@@ -240,7 +240,6 @@ section {
 	letter-spacing: 2px;
 }
 
-
 .education-list .item {
 	box-shadow: 0px 0px 20px rgb(0, 0, 0, 10%);
 	border-bottom: 3px solid var(--main-color);
@@ -523,14 +522,14 @@ footer p {
 	}
 	.top-btn{
 		height: 40px;
-		width: 120px;
-		font-size: 0.7rem;
-		padding: 3.5% 5%;
+		width: 100px;
+		font-size: 0.6rem;
+		padding: 10px 10px;
 	}
 	.home {
 		padding-top: 70px;
 		display: block;
-		min-height: 130vh;
+		min-height: 120vh;
 	}
 	.home-text {
 		text-align: center;
@@ -564,7 +563,7 @@ footer p {
 		--p-font: 0.85rem;
 	}
 	section {
-		padding: 65px 3%;
+		padding: 65px 5%;
 		transition: .3s;
 	}
 }	 
