@@ -517,6 +517,9 @@ footer p {
 
 
 @media (max-width: 400px) {
+	body {
+		overflow-x:hidden;  
+	}
 	.logo img {
 		width: 40px;
 	}
@@ -524,7 +527,8 @@ footer p {
 		height: 40px;
 		width: 100px;
 		font-size: 0.6rem;
-		padding: 10px 10px;
+		padding: 10px;
+		
 	}
 	.home {
 		padding-top: 70px;
