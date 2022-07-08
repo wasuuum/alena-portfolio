@@ -365,6 +365,7 @@ section {
 .contact-list h4 {
 	font-size: var(--h3-font);
 	font-weight: 600;
+	color: var(--text-color: #000);
 	margin-bottom: 10px;
 }
 
